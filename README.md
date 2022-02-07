@@ -4,7 +4,6 @@
 - [Descripción](#Descripción) 📑
 - [Integrantes](#Integrantes) 👪
 - [Herramientas](#Herramientas) 🛠
-- [Deploy](#Deploy) 🚀
 
 ## Descripción:
 <p align="justify">
@@ -36,6 +35,3 @@ En 10 provincias argentinas se desarrollan los Juicios por Jurados y cualquiera 
     <a href="https://www.thymeleaf.org/" target="_blank"><img src="https://raw.githubusercontent.com/gabopereyra/Imagenes/main/thymeleaf.svg" width="35px" height="35px"/> </a>
       <a href="https://www.jetbrains.com/es-es/idea/" target="_blank"><img src="https://raw.githubusercontent.com/gabopereyra/Imagenes/main/intellij.svg" width="35px" height="35px"/> </a>
 <p>
-
-### Deploy:
-<p><a href="https://www.heroku.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg" width="35px" height="35px"/></a></p>
